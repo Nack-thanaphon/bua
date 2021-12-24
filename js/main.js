@@ -103,7 +103,7 @@
 })(jQuery);
 
 
-tbox = document.getElementById('fb-customer-chat');
+var chatbox = document.getElementById('fb-customer-chat');
 chatbox.setAttribute("page_id", "104950768383702");
 chatbox.setAttribute("attribution", "biz_inbox");
 
